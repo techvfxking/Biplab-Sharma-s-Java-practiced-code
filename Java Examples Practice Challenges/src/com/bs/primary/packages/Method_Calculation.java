@@ -1,4 +1,4 @@
-package com.bs.patterns;
+package com.bs.primary.packages;
 
 import java.util.Scanner;
 public class Method_Calculation {
