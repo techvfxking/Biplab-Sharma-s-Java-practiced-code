@@ -1,3 +1,4 @@
+package com.bs.patterns;
 public class Main {
 	public static void main(String[] args) {
 		int result = biswajit(1, 5);

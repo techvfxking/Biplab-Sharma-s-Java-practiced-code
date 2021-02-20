@@ -1,3 +1,4 @@
+package com.bs.patterns;
 
 public class Method_feet_inches {
 

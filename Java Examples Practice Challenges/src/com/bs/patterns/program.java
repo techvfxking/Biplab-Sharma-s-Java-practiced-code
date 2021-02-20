@@ -1,3 +1,4 @@
+package com.bs.patterns;
 import java.util.*;
 
 public class program

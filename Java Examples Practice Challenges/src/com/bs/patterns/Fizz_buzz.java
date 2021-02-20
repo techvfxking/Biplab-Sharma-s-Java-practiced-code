@@ -1,3 +1,4 @@
+package com.bs.patterns;
 
 public class Fizz_buzz {
 
